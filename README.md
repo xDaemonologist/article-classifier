@@ -1,10 +1,11 @@
-# the idea is to scan for future rittenhouse's, and notify activists of immanent danger to life
-# ultimately I decided to move on from this project and instead implement OpenAI's API to automate the classification of tweets
+# I decided to move on from this project and instead implement OpenAI's API to automate the classification of tweets
 
 <h1>Scan articles and categorize them based on training data. </h1>
 
 <p>
 
+  -- This was my original attempt at creating a domestic threat scanner for twitter. I have since moved on to implementing OpenAI's API to classify tweets because I think(know) it'll be much easier to train their model rather than my own.
+  
 This is a personal project I started to learn web scraping to create a data set and practice building an application with real world utility -- to . I want to train an AI model on potential domestic terrorist accounts in America. I plan to scrape Twitter and Gab for death threats, for accounts that idealize and promote violence, for accounts that belonged to known criminals, and for accounts posting gore.</p>
 
 <h2>Plans for the future:</h2>
