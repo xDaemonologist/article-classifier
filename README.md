@@ -1,4 +1,5 @@
 # the idea is to scan for future rittenhouse's, and notify activists of immanent danger to life
+#ultimately I decided to move on from this project and instead implement OpenAI's API to automate the classification of tweets
 
 <h1>Scan articles and categorize them based on training data. </h1>
 
